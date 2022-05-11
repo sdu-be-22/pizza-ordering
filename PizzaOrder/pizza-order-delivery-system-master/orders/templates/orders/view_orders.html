@@ -1,0 +1,22 @@
+{% extends "orders/base.html" %}
+
+{% block title %}
+	Administrators page 
+{% endblock %}
+
+{% block body %}
+<center><h2>Orders</h2></center>
+
+			<table class="table table-sm table-hover">
+            {% for order in orders %}
+            <tr>
+                <td>{{order.item}}</td>
+                <td>Extras : {{order.extras}}</td>
+                <td>Price : {{order.price}}</td>
+                <td>By {{order.user}}</td>
+            </tr>
+            {% endfor %}
+        </table>
+
+
+{% endblock %}
