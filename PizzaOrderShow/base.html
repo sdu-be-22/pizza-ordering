@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>{%  block title %}  {% endblock %}</title>
+	 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
+	<link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Montserrat:ital,wght@0,100;0,400;1,900&family=Praise&family=Roboto:wght@300&display=swap" rel="stylesheet">
+	<link rel="icon" type="image/ico" href="https://www.bing.com/th?id=OIP.wN9pcFsz5al9-aO-V7DNRgHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2">
+	<style>
+		.table {
+  width: 100%;
+  margin-bottom: 1rem;
+  color: #212529; }
+  .table th,
+  .table td {
+    padding: 0.9375rem;
+    vertical-align: top;
+    border-top: 1px solid #ebedf2; }
+  .table thead th {
+    vertical-align: bottom;
+    border-bottom: 2px solid #ebedf2; }
+  .table tbody + tbody {
+    border-top: 2px solid #ebedf2; }
+
+    .table-sm th,
+.table-sm td {
+  padding: 0.3rem; }
+
+  .table-hover tbody tr:hover {
+  color: #212529;
+  background-color: #f2edf3; }
+
+  body {
+  color: #FF914D; }
+	</style>
+</head>
+<body>
+	<div class="jumbotron">
+	{% block body %}
+	{% endblock %}
+	</div>
+</body>
+</html>
