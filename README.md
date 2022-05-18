@@ -6,7 +6,7 @@
 * Kadyr Zhassulan
 
 ### Description:
-This project is about ordering pizza. I chose these topic because as you know nowadays pizza is one of the well-known type of food. Also there are many type of pizza. That's why pizza was suitable for my project.
+This project is about ordering pizza. We chose these topic because as you know nowadays pizza is one of the well-known type of food. Also there are many type of pizza. That's why pizza was suitable for my project.
 
 ### Screen:
 ![2022-05-19 (8)](https://user-images.githubusercontent.com/78751888/169157769-2d2e442f-e512-46d7-ab68-40fc13d1b8bd.png)
