@@ -15,3 +15,5 @@ This project is about ordering pizza. We chose these topic because as you know n
 ![2022-05-19 (11)](https://user-images.githubusercontent.com/78751888/169157816-5fbab992-2433-4bfa-876d-bf4a7d175318.png)
 ![2022-05-19 (14)](https://user-images.githubusercontent.com/78751888/169157827-c9312d5f-741b-431f-b050-4de2c71ef7e1.png)
 ![2022-05-19 (10)](https://user-images.githubusercontent.com/78751888/169157835-311187cc-137e-44e9-9493-d6c5a28df24c.png)
+
+* The link for presentation: https://www.canva.com/design/DAFBE2eebRI/xm0Q_qWMYuT7ZfMDUoWhAA/view?utm_content=DAFBE2eebRI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
